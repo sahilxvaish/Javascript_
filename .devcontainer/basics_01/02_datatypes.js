@@ -33,3 +33,6 @@ let isLoggedIn = false //boolean datatype
 console.log(typeof "SAHIL")
 console.lof(typeof undefined); // undefined 
 console.log(typeof  null); //object
+
+
+
