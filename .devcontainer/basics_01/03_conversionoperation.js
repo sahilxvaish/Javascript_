@@ -26,5 +26,53 @@ console.log(booleanIsLoggedIn);
 let someNumber = 33 
 
 let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+
+//.......................operations...................//
+
+
+let value = 3 
+let negValue = -value 
+console.log();
+// console.log(negValue);
+
+let str1 = "hello"
+let str2 = "sahil"
+
+let str3 = str1 + str2
+console.log(str3);
+
+console.log ("1"+ 2);
+console.log(1+ "2");
+console.log("1"+ 2+ 2);
+console.log(1 + 2+ "2");
+console.log(+true);
+console.log(+"");
+
+
+// let num1, num2, num3
+
+// num1 = num2 = num3 = 2+2
+
+//bad readiability ^
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
+
+// ........................
+
+let gamecounter = 100
+gamecounter--;
+console.log(gamecounter);
+
+//link to study 
+
+// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+
+
+
+
+
