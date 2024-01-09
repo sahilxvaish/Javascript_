@@ -51,7 +51,7 @@ console.log(anothername);
 
 let user1 = {
     email: "google.com"
-    upii: "user@ybl"
+    upi: "user@ybl"
 
 }
 
