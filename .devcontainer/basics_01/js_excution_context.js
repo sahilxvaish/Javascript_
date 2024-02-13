@@ -1,0 +1,10 @@
+//{} Global EC   in 'this' variable.
+//js is  single threaded.
+
+//GLOBAL EXECUTION CONTEXT
+//FUNCTION EXECUTION CONTEXT
+//EVAL EXECUTION CONTEXT
+
+// {} MEMORY CREATION PHASE
+// EXECUTION PHASE 
+// 
